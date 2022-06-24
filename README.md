@@ -1,3 +1,3 @@
 # Reto_Uno
 ##### Integrantes: Estela Chipantasi 🎭 - Edison Rivera 🎲
-![](assets/Captura.PNG)
+![](Reto#1/assets/Captura.PNG)
